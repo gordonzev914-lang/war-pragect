@@ -1,0 +1,40 @@
+from utils import deck
+from game_logic import game
+if __name__ == "__main__":
+    init_game()
+    play_round()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
